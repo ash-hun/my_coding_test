@@ -15,4 +15,4 @@
     - 예산
     - 폰켓몬
 - ### Programmers Lv.2
-    - Not yet
+    - 큰 수 만들기
